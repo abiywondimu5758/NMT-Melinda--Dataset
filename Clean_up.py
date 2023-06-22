@@ -1,4 +1,4 @@
-with open('output.txt', 'r') as file:
+with open('out.txt', 'r') as file:
     lines = file.readlines()
 keyword = 'ewe'
 select_word = 'ewe'
